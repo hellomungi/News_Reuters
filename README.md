@@ -6,7 +6,7 @@ Google Transrator 를 사용하여 한국어로 번역하는 py 파일 입니다
 
 <img src="https://github.com/hellomungi/News_Reuters/blob/main/news_reuters.JPG"/>
 
-<br>
+
 ```
 import time
 import pandas as pd
